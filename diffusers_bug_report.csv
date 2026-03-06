@@ -1,0 +1,12 @@
+repository_name,open_bug_count
+huggingface/diffusers,263
+huggingface/swift-coreml-diffusers,0
+huggingface/optimum,173
+huggingface/huggingface-inference-toolkit,0
+huggingface/optimum-benchmark,1
+huggingface/finetrainers,0
+huggingface/image_gen_aux,0
+huggingface/diffusion-fast,0
+huggingface/optimum-intel,0
+huggingface/instruction-tuned-sd,0
+huggingface/lora-fast,0
